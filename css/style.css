@@ -10,8 +10,13 @@
     min-height:400px;
 }
 
+/*matching*/
+/*E9C46A*/
+/*2A9D8F*/
+/*264653*/
+
 .footer{
-    background-color: #d1c4e9;
+    background-color: #F4A261;
     margin:0px auto;
     padding: 20px 0px 20px 0px;
 }
@@ -35,12 +40,21 @@
 .jumbotron {
     padding:70px 30px 70px 30px;
     margin:0px auto;
-    background: #9575CD ;
-    color:floralwhite;
+    background: #E76F51 ;
+    color:white;
 }
 
 address{
     font-size:80%;
     margin:0px;
     color:#0f0f0f;
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+    background-color: #264653;
 }
