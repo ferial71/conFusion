@@ -61,6 +61,12 @@ body{
 .card-fact, .thead-main{
     background-color: #2A9D8F;
 }
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
 
 /*matching*/
 /*E9C46A*/
