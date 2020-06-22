@@ -1,7 +1,9 @@
 $lt-gray: #ddd;
-$background-dark: #512DA8;
-$background-light: #9575CD;
-$background-pale: #D1C4E9;
+$background-dark: #264653;
+$background-light: #E76F51;
+$background-pale: #E9C46A;
+$background-medium: #2A9D8F;
+//E76F51
 
 // Height variables
 $carousel-item-height: 300px;
@@ -53,7 +55,7 @@ body{
   padding: 10px;
 }
 .carousel {
-  background:$background-dark;
+  background:$background-pale;
 
   .carousel-item {
     height: $carousel-item-height;
